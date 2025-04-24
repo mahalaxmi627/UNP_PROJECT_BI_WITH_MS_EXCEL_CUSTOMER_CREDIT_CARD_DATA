@@ -5,4 +5,4 @@ Creating KPIs which then acted as the main focus of our dashboard.
 Capping data to the amounts calculated using min max and percentile formulas.
 Creating pivot tables and charts accordingly. 
 Creating slicers relevant to assets.
-My File : https://docs.google.com/spreadsheets/d/1Ez2lDjgjLMRw6KlMJNO5iwDywhC9Dzy6/edit?usp=sharing&ouid=107240868183097622469&rtpof=true&sd=true
+My File : https://onedrive.live.com/?id=C231C6B43AFA0A9C%21se2edb60d42e64225b4845cc5c8759439&cid=C231C6B43AFA0A9C&sb=name&sd=1
