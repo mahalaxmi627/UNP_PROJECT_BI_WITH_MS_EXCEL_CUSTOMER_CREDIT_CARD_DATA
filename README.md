@@ -5,6 +5,6 @@ Creating KPIs which then acted as the main focus of our dashboard.
 Capping data to the amounts calculated using min max and percentile formulas.
 Creating pivot tables and charts accordingly. 
 Creating slicers relevant to assets.
-My File : https://1drv.ms/x/c/c231c6b43afa0a9c/EXmalqYZV0pJncYisEB7BaEB93TG_m1mwmgKoxQNexEjTg?e=dl43dq
- This project was made by Team members of 4 
+This project was made by Team members of 4 
  we included different types of  kpis taking different conditions and sectors 
+My File : https://1drv.ms/x/c/c231c6b43afa0a9c/EXmalqYZV0pJncYisEB7BaEB93TG_m1mwmgKoxQNexEjTg?e=dl43dq
